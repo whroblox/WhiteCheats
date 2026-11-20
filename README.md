@@ -8,16 +8,16 @@
 
 чит-компанья с белой совестью: никакой деструктивщины, только честные client-side утилиты
 
-[![scripts](https://img.shields.io/badge/репозиторий-scripts-8b5cf6?style=for-the-badge&logo=github)](https://github.com/official-ids/scripts)
+[![scripts](https://img.shields.io/badge/репозиторий-scripts-8b5cf6?style=for-the-badge&logo=github)](https://github.com/whroblox/scripts)
 
 ### ✦ Что мы делаем
 
-Информеры, визуальные утилиты и инструменты для тестов — всё то, что не мешает другим игрокам. Актуальный список — в [репозитории scripts](https://github.com/official-ids/scripts), loader подтягивает его сам.
+Информеры, визуальные утилиты и инструменты для тестов — всё то, что не мешает другим игрокам. Актуальный список — в [репозитории scripts](https://github.com/whroblox/scripts), loader подтягивает его сам.
 
 ### ⛔ Что мы НЕ делаем
 
 Fly • Noclip • Fling • Kill-эксплойты — anything, что вредит игрокам или игре
 
-📮 Контакты: Issues в [репозитории scripts](https://github.com/official-ids/scripts).
+📮 Контакты: Issues в [репозитории scripts](https://github.com/whroblox/scripts).
 
 </div>
